@@ -2,28 +2,103 @@
 
 import sys, os, re, json
 
-micron = r'(^MT)(29)([E,F])(.{,3}[G,T])([0,1][1,8,6])([A,C,E]|.)([A,B,D,E,F,G,J,K,L,M,Q,R,T,U,V,]|.)([A,B,C,E,F,G,H,J,K,L]|.)([A,B,C,D,E]|.)([A,B,C,D]|.)([W,H,J][P,C,1-9]|..)'
-kioxia = r'(^T[H,C]58)([N,D,T]|.)([V,Y,A,B,D]|.)([M,G,T][0-9])([S,D,T]|.)([0-9])([A-H])'
-#samsung
-#winbond
-#macronix
+micron = r'(^MT)(29)([E,F])(.{,3}[G,T])([0,1][1,8,6])([A,C,E]|.)([A,B,D,E,F,G,J,K,L,M,Q,R,T,U,V,]|.)([A,B,C,E,F,G,H,J,K,L]|.)([A,B,C,D,E]|.)([A,B,C,D]|.)([W,H,J][P,C,1-9]|..)($|-(\d{,2}|$)([A,I,W]{1,2}T|$)([E,M,R,S,X,Z]|$))'
+kioxia = r'(^T[H,C])58([N,D,T]|.)([V,Y,A,B,D]|.)([M,G,T][0-9])([S,D,T]|.)([0-9])([A-H])'
+samsung = r'(^K)'
+winbond = r'(^W)'
+macronix = r'(^MX)30(L)(F)(\d{,3}G)(E8A).-([T,XK,XQ])(I)'
 
-regex = [micron, kioxia]
+#regex = [micron, kioxia, samsung, winbond,macronix]
+regex = [micron]
 
 def decode(var):
     for r in regex:
         matches = re.findall(r, var)
+        print(matches)
         for flash in matches:
             if flash[0] == 'MT':
                 return micron(flash)
-            if flash[0] in ['TH58', 'TC58']:
+            if flash[0] in ['TH', 'TC']:
                 return kioxia(flash)
-    #        if flash[0] in ['K']:
-    #            return samsung(flash)
+            if flash[0] in ['K']:
+                return samsung(flash)
+            if flash[0] in ['MX']:
+                return macronix(flash)
+            if flash[0] in ['w']:
+                return winbond(flash)
             else:
                 print ("unknown flash")
-                exit()
+                return(None)
 
+def samsung(id):
+    return {
+        'vendor':'Samsung',
+        'density':None,
+        'width':None,
+        'cells':None,
+        'classification':{'die':None,'ce':None,'rb':None,'ch':None},
+        'voltage':{'Vcc':None,'Vccq':None},
+        'interface':None,
+        'footprint':None,
+        'speed':None,
+        'temperature':str(None),
+        'page_size':None,
+        'block_size':None,
+        'alias':None
+    }
+
+def macronix(id):
+    # VOLTAGE
+    if id[1] == 'L':
+        vcc='3.3V (2.7.-3.6V)'
+    else:
+        vcc=None;vccq=None
+
+    # CELLS
+    if id[2] == 'F':
+        cells='SLC'
+    else:
+        cells=None
+
+    # TEMPERATURE
+    if id[6] == 'I':
+        temperature='-40 +85C'
+    else:
+        temperature=None
+
+    return {
+        'vendor':'Macronix',
+        'density':id[3],
+        'width':None,
+        'cells':cells,
+        'classification':{'die':None,'ce':None,'rb':None,'ch':None},
+        'voltage':{'Vcc':vcc},
+        'interface':None,
+        'footprint':None,
+        'speed':None,
+        'temperature':temperature,
+        'page_size':None,
+        'block_size':None,
+        'alias':None
+    }
+    
+def winbond(id):
+    return {
+        'vendor':'Winbond',
+        'density':None,
+        'width':None,
+        'cells':None,
+        'classification':{'die':None,'ce':None,'rb':None,'ch':None},
+        'voltage':{'Vcc':None,'Vccq':None},
+        'interface':None,
+        'footprint':None,
+        'speed':None,
+        'temperature':str(None),
+        'page_size':None,
+        'block_size':None,
+        'alias':None
+    }
+    
 def kioxia(id):
     # CELLS
     if id[4] == 'S':
@@ -54,7 +129,7 @@ def kioxia(id):
         'density':str(2**int(id[3][1]))+id[3][0],
         'width':None,
         'cells':cells,
-        'classification':None,
+        'classification':{'die':None,'ce':None,'rb':None,'ch':None},
         'voltage':{'Vcc':vcc,'Vccq':vccq},
         'interface':None,
         'footprint':None,
@@ -158,6 +233,36 @@ def micron(id):
     else:
         footprint=None
 
+    # SPEED
+    if id[12] == "12":
+        speed="166MT/s"
+    elif id[12] == "10":
+        speed="200MT/s"
+    elif id[12] == "6":
+        speed="333MT/s"
+    elif id[12] == "5":
+        speed="400MT/s"
+    elif id[12] == "4":
+        speed="533MT/s"
+    elif id[12] == "3":
+        speed="667MT/s"
+    else:
+        speed=None
+
+    # TEMPERATURE
+    if id[13] == "":
+        temperature="0 to 70°C"
+    if id[13] == "AAT":
+        temperature="-40 to 105°C"
+    if id[13] == "AIT":
+        temperature="-40 to 85°C"
+    elif id[13] == "IT":
+        temperature="-40 to 85°C"
+    elif id[13] == "WT":
+        temperature="-25 to 85°C"
+    else:
+        temperature=None
+
     return {
         'vendor':'Micron',
         'density':id[3],
@@ -167,11 +272,10 @@ def micron(id):
         'voltage':{'Vcc':vcc,'Vccq':vccq},
         'interface':{'sync':sync,'async':synca},
         'footprint':footprint,
-        'speed':None,
-        'temperature':str(None),
         'page_size':None,
         'block_size':None,
-        'alias':None
+        'temperature':temperature,
+        'speed':speed
     }
 
 

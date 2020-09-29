@@ -1,201 +1,138 @@
-vendor;name;datasheet;density;width;voltage;footprint_default;footprint_filters;temperature;ce;page_size;block_size;cells;mode;speed
-Micron;MT29F128G08AJAAAWP-ITZ;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f128g08ajaaawp-itz;;;;;;;;;;;;
-Micron;MT29F128G08AKCABH2-10IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f128g08akcabh2-10it;;;;;;;;;;;;
-Micron;MT29F128G08AMCABH2-10ITZ;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f128g08amcabh2-10itz;;;;;;;;;;;;
-Micron;MT29F128G08AMCDBJ5-6;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f128g08amcdbj5-6;;;;;;;;;;;;
-Micron;MT29F16G08ABABAWP-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08ababawp-ait;;;;;;;;;;;;
-Micron;MT29F16G08ABABAWP-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08ababawp-it;;;;;;;;;;;;
-Micron;MT29F16G08ABACAWP-ITZ;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08abacawp-itz;;;;;;;;;;;;
-Micron;MT29F16G08ABCBBH1-12AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08abcbbh1-12ait;;;;;;;;;;;;
-Micron;MT29F16G08ABCCBH1-10ITZ;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08abccbh1-10itz;;;;;;;;;;;;
-Micron;MT29F16G08AJADAWP-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08ajadawp-it;;;;;;;;;;;;
-Micron;MT29F1G01AAADDH4-ITX;https://www.micron.com/products/nand-flash/serial-nand/part-catalog/mt29f1g01aaaddh4-itx;;;;;;;;;;;;
-Micron;MT29F1G08ABADAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abadah4-it;;;;;;;;;;;;
-Micron;MT29F1G08ABADAH4-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abadah4-itx;;;;;;;;;;;;
-Micron;MT29F1G08ABADAWP-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abadawp-itx;;;;;;;;;;;;
-Micron;MT29F1G08ABAEAH4;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeah4;;;;;;;;;;;;
-Micron;MT29F1G08ABAEAH4-AATX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeah4-aatx;;;;;;;;;;;;
-Micron;MT29F1G08ABAEAH4-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeah4-aitx;;;;;;;;;;;;
-Micron;MT29F1G08ABAEAH4-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeah4-itx;;;;;;;;;;;;
-Micron;MT29F1G08ABAEAWP;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeawp;;;;;;;;;;;;
-Micron;MT29F1G08ABAEAWP-AATX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeawp-aatx;;;;;;;;;;;;
-Micron;MT29F1G08ABAEAWP-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeawp-aitx;;;;;;;;;;;;
-Micron;MT29F1G08ABAEAWP-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeawp-it;;;;;;;;;;;;
-Micron;MT29F1G08ABAEAWP-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeawp-itx;;;;;;;;;;;;
-Micron;MT29F1G08ABAFAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafah4-aat;;;;;;;;;;;;
-Micron;MT29F1G08ABAFAH4-AATES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafah4-aates;;;;;;;;;;;;
-Micron;MT29F1G08ABAFAH4-ITE;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafah4-ite;;;;;;;;;;;;
-Micron;MT29F1G08ABAFAWP-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafawp-aat;;;;;;;;;;;;
-Micron;MT29F1G08ABAFAWP-AATES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafawp-aates;;;;;;;;;;;;
-Micron;MT29F1G08ABAFAWP-ITE;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafawp-ite;;;;;;;;;;;;
-Micron;MT29F1G08ABBDAH4-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbdah4-itx;;;;;;;;;;;;
-Micron;MT29F1G08ABBEAH4-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbeah4-aitx;;;;;;;;;;;;
-Micron;MT29F1G08ABBEAH4-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbeah4-itx;;;;;;;;;;;;
-Micron;MT29F1G08ABBFAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbfah4-aat;;;;;;;;;;;;
-Micron;MT29F1G08ABBFAH4-AATES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbfah4-aates;;;;;;;;;;;;
-Micron;MT29F1G08ABBFAH4-ITE;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbfah4-ite;;;;;;;;;;;;
-Micron;MT29F1G16ABBDAH4-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbdah4-itx;;;;;;;;;;;;
-Micron;MT29F1G16ABBDAHC-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbdahc-it;;;;;;;;;;;;
-Micron;MT29F1G16ABBEAH4-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbeah4-aitx;;;;;;;;;;;;
-Micron;MT29F1G16ABBEAH4-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbeah4-itx;;;;;;;;;;;;
-Micron;MT29F1G16ABBFAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbfah4-aat;;;;;;;;;;;;
-Micron;MT29F1G16ABBFAH4-AATES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbfah4-aates;;;;;;;;;;;;
-Micron;MT29F1G16ABBFAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbfah4-it;;;;;;;;;;;;
-Micron;MT29F256G08AUCABH3-10ITZ;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f256g08aucabh3-10itz;;;;;;;;;;;;
-Micron;MT29F2G08ABAEAH4;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeah4;;;;;;;;;;;;
-Micron;MT29F2G08ABAEAH4-AATX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeah4-aatx;;;;;;;;;;;;
-Micron;MT29F2G08ABAEAH4-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeah4-aitx;;;;;;;;;;;;
-Micron;MT29F2G08ABAEAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeah4-it;;;;;;;;;;;;
-Micron;MT29F2G08ABAEAH4-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeah4-itx;;;;;;;;;;;;
-Micron;MT29F2G08ABAEAWP;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeawp;;;;;;;;;;;;
-Micron;MT29F2G08ABAEAWP-AATX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeawp-aatx;;;;;;;;;;;;
-Micron;MT29F2G08ABAEAWP-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeawp-aitx;;;;;;;;;;;;
-Micron;MT29F2G08ABAEAWP-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeawp-it;;;;;;;;;;;;
-Micron;MT29F2G08ABAEAWP-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeawp-itx;;;;;;;;;;;;
-Micron;MT29F2G08ABAGAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-aat;;;;;;;;;;;;
-Micron;MT29F2G08ABAGAH4-AATES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-aates;;;;;;;;;;;;
-Micron;MT29F2G08ABAGAH4-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-ait;;;;;;;;;;;;
-Micron;MT29F2G08ABAGAH4-AITES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-aites;;;;;;;;;;;;
-Micron;MT29F2G08ABAGAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-it;;;;;;;;;;;;
-Micron;MT29F2G08ABAGAH4-ITE;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-ite;;;;;;;;;;;;
-Micron;MT29F2G08ABAGAWP-ITE;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagawp-ite;;;;;;;;;;;;
-Micron;MT29F2G08ABBEAH4-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbeah4-aitx;;;;;;;;;;;;
-Micron;MT29F2G08ABBEAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbeah4-it;;;;;;;;;;;;
-Micron;MT29F2G08ABBEAH4-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbeah4-itx;;;;;;;;;;;;
-Micron;MT29F2G08ABBEAHC-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbeahc-it;;;;;;;;;;;;
-Micron;MT29F2G08ABBGAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbgah4-aat;;;;;;;;;;;;
-Micron;MT29F2G08ABBGAH4-AATES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbgah4-aates;;;;;;;;;;;;
-Micron;MT29F2G08ABBGAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbgah4-it;;;;;;;;;;;;
-Micron;MT29F2G16ABAEAWP-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abaeawp-aat;;;;;;;;;;;;
-Micron;MT29F2G16ABAEAWP-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abaeawp-ait;;;;;;;;;;;;
-Micron;MT29F2G16ABAGAWP-AATES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abagawp-aates;;;;;;;;;;;;
-Micron;MT29F2G16ABAGAWP-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abagawp-ait;;;;;;;;;;;;
-Micron;MT29F2G16ABAGAWP-AITES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abagawp-aites;;;;;;;;;;;;
-Micron;MT29F2G16ABBEAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abbeah4-aat;;;;;;;;;;;;
-Micron;MT29F2G16ABBEAHC-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abbeahc-ait;;;;;;;;;;;;
-Micron;MT29F2G16ABBGAH4-AATES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abbgah4-aates;;;;;;;;;;;;
-Micron;MT29F2G16ABBGAH4-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abbgah4-ait;;;;;;;;;;;;
-Micron;MT29F2G16ABBGAH4-AITES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abbgah4-aites;;;;;;;;;;;;
-Micron;MT29F32G08ABAAAWP-ITZ;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f32g08abaaawp-itz;;;;;;;;;;;;
-Micron;MT29F32G08ABCABH1-10ITZ;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f32g08abcabh1-10itz;;;;;;;;;;;;
-Micron;MT29F32G08ABCDBJ4-6;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f32g08abcdbj4-6;;;;;;;;;;;;
-Micron;MT29F4G01AAADDHC-ITX;https://www.micron.com/products/nand-flash/serial-nand/part-catalog/mt29f4g01aaaddhc-itx;;;;;;;;;;;;
-Micron;MT29F4G08ABADAH4;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadah4;;;;;;;;;;;;
-Micron;MT29F4G08ABADAH4-AATX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadah4-aatx;;;;;;;;;;;;
-Micron;MT29F4G08ABADAH4-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadah4-aitx;;;;;;;;;;;;
-Micron;MT29F4G08ABADAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadah4-it;;;;;;;;;;;;
-Micron;MT29F4G08ABADAH4-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadah4-itx;;;;;;;;;;;;
-Micron;MT29F4G08ABADAWP;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadawp;;;;;;;;;;;;
-Micron;MT29F4G08ABADAWP-AATX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadawp-aatx;;;;;;;;;;;;
-Micron;MT29F4G08ABADAWP-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadawp-aitx;;;;;;;;;;;;
-Micron;MT29F4G08ABADAWP-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadawp-it;;;;;;;;;;;;
-Micron;MT29F4G08ABADAWP-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadawp-itx;;;;;;;;;;;;
-Micron;MT29F4G08ABAEAH4;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abaeah4;;;;;;;;;;;;
-Micron;MT29F4G08ABAEAH4-ITS;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abaeah4-its;;;;;;;;;;;;
-Micron;MT29F4G08ABAEAWP;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abaeawp;;;;;;;;;;;;
-Micron;MT29F4G08ABAEAWP-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abaeawp-it;;;;;;;;;;;;
-Micron;MT29F4G08ABAFAH4-AAT;https://www.micron.com/products/nand-flash/serial-nand/part-catalog/mt29f4g08abafah4-aat;;;;;;;;;;;;
-Micron;MT29F4G08ABAFAH4-AIT;https://www.micron.com/products/nand-flash/serial-nand/part-catalog/mt29f4g08abafah4-ait;;;;;;;;;;;;
-Micron;MT29F4G08ABAFAH4-IT;https://www.micron.com/products/nand-flash/serial-nand/part-catalog/mt29f4g08abafah4-it;;;;;;;;;;;;
-Micron;MT29F4G08ABAFAWP-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abafawp-aat;;;;;;;;;;;;
-Micron;MT29F4G08ABAFAWP-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abafawp-ait;;;;;;;;;;;;
-Micron;MT29F4G08ABAFAWP-IT;https://www.micron.com/products/nand-flash/serial-nand/part-catalog/mt29f4g08abafawp-it;;;;;;;;;;;;
-Micron;MT29F4G08ABBDAH4;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdah4;;;;;;;;;;;;
-Micron;MT29F4G08ABBDAH4-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdah4-aitx;;;;;;;;;;;;
-Micron;MT29F4G08ABBDAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdah4-it;;;;;;;;;;;;
-Micron;MT29F4G08ABBDAH4-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdah4-itx;;;;;;;;;;;;
-Micron;MT29F4G08ABBDAHC-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdahc-ait;;;;;;;;;;;;
-Micron;MT29F4G08ABBDAHC-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdahc-it;;;;;;;;;;;;
-Micron;MT29F4G08ABBEAH4;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbeah4;;;;;;;;;;;;
-Micron;MT29F4G08ABBEAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbeah4-it;;;;;;;;;;;;
-Micron;MT29F4G08ABBFAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbfah4-aat;;;;;;;;;;;;
-Micron;MT29F4G08ABBFAH4-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbfah4-ait;;;;;;;;;;;;
-Micron;MT29F4G08ABBFAH4-AITES;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbfah4-aites;;;;;;;;;;;;
-Micron;MT29F4G08ABBFAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbfah4-it;;;;;;;;;;;;
-Micron;MT29F4G16ABADAH4-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g16abadah4-ait;;;;;;;;;;;;
-Micron;MT29F4G16ABADAWP-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g16abadawp-ait;;;;;;;;;;;;
-Micron;MT29F4G16ABBDAH4-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g16abbdah4-ait;;;;;;;;;;;;
-Micron;MT29F4G16ABBDAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g16abbdah4-it;;;;;;;;;;;;
-Micron;MT29F4G16ABBFAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g16abbfah4-aat;;;;;;;;;;;;
-Micron;MT29F64G08AECABH1-10ITZ;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f64g08aecabh1-10itz;;;;;;;;;;;;
-Micron;MT29F64G08AECDBJ4-6;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f64g08aecdbj4-6;;;;;;;;;;;;
-Micron;MT29F64G08AFAAAWP-ITZ;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f64g08afaaawp-itz;;;;;;;;;;;;
-Micron;MT29F64G08AJABAWP-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f64g08ajabawp-it;;;;;;;;;;;;
-Micron;MT29F8G08ABABAWP;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08ababawp;;;;;;;;;;;;
-Micron;MT29F8G08ABABAWP-AATX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08ababawp-aatx;;;;;;;;;;;;
-Micron;MT29F8G08ABABAWP-AITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08ababawp-aitx;;;;;;;;;;;;
-Micron;MT29F8G08ABABAWP-ITX;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08ababawp-itx;;;;;;;;;;;;
-Micron;MT29F8G08ABACAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08abacah4-it;;;;;;;;;;;;
-Micron;MT29F8G08ABACAWP-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08abacawp-it;;;;;;;;;;;;
-Micron;MT29F8G08ABBCAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08abbcah4-it;;;;;;;;;;;;
-Micron;MT29F8G08ADADAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adadah4-it;;;;;;;;;;;;
-Micron;MT29F8G08ADAFAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adafah4-aat;;;;;;;;;;;;
-Micron;MT29F8G08ADAFAWP-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adafawp-aat;;;;;;;;;;;;
-Micron;MT29F8G08ADAFAWP-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adafawp-ait;;;;;;;;;;;;
-Micron;MT29F8G08ADBDAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adbdah4-aat;;;;;;;;;;;;
-Micron;MT29F8G08ADBFAH4-AAT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adbfah4-aat;;;;;;;;;;;;
-Micron;MT29F8G16ABACAWP-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g16abacawp-it;;;;;;;;;;;;
-Micron;MT29F8G16ADADAH4-IT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g16adadah4-it;;;;;;;;;;;;
-Micron;MT29F8G16ADBDAH4-AIT;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g16adbdah4-ait;;;;;;;;;;;;
-Samsung;K9F1G08U0F-5IB0;;1 Gb;x8;2.7V-3.6V;FBGA;;-40 ~ 85 °C;;;;;;40 Mbps
-Samsung;K9F1G08U0F-SIB0;;1 Gb;x8;2.7V-3.6V;TSOP;;-40 ~ 85 °C;;;;;;40 Mbps
-Samsung;K9F2G08U0D-5IB0;;2 Gb;x8;2.7V-3.6V;FBGA;;-40 ~ 85 °C;;;;;;40 Mbps
-Samsung;K9F2G08U0D-SIB0;;2 Gb;x8;2.7V-3.6V;TSOP;;-40 ~ 85 °C;;;;;;40 Mbps
-Samsung;K9F4G08U0F-5IB0;;4 Gb;x8;2.7V-3.6V;FBGA;;-40 ~ 85 °C;;;;;;40 Mbps
-Samsung;K9F4G08U0F-SIB0;;4 Gb;x8;2.7V-3.6V;TSOP;;-40 ~ 85 °C;;;;;;40 Mbps
-Samsung;K9F8G08U0F-5IB0;;8 Gb;x8;2.7V-3.6V;FBGA;;-40 ~ 85 °C;;;;;;40 Mbps
-Samsung;K9K8G08U0F-SIB0;;8 Gb;x8;2.7V-3.6V;TSOP;;-40 ~ 85 °C;;;;;;40 Mbps
-Samsung;K9WAG08U1F-SIB0;;16 Gb;x8;2.7V-3.6V;TSOP;;-40 ~ 85 °C;;;;;;40 Mbps
-Kioxia;TC58NVG0S3HBAI4;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NVG0S3HBAI4;;;;;;;;;;;;
-Kioxia;TC58NVG0S3HTA00;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NVG0S3HTA00;;;;;;;;;;;;
-Kioxia;TC58NVG0S3HTAI0;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NVG0S3HTAI0;;;;;;;;;;;;
-Kioxia;TC58NVG1S3HBAI4;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NVG1S3HBAI4;;;;;;;;;;;;
-Kioxia;TC58NVG1S3HTA00;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NVG1S3HTA00;;;;;;;;;;;;
-Kioxia;TC58NVG1S3HTAI0;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NVG1S3HTAI0;;;;;;;;;;;;
-Kioxia;TC58NVG2S0HBAI4;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NVG2S0HBAI4;;;;;;;;;;;;
-Kioxia;TC58NVG2S0HTA00;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NVG2S0HTA00;;;;;;;;;;;;
-Kioxia;TC58NVG2S0HTAI0;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NVG2S0HTAI0;;;;;;;;;;;;
-Kioxia;TC58NYG0S3HBAI4;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NYG0S3HBAI4;;;;;;;;;;;;
-Kioxia;TC58NYG1S3HBAI4;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NYG1S3HBAI4;;;;;;;;;;;;
-Kioxia;TC58NYG2S0HBAI4;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TC58NYG2S0HBAI4;;;;;;;;;;;;
-Kioxia;TH58NVG3S0HBAI4;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TH58NVG3S0HBAI4;;;;;;;;;;;;
-Kioxia;TH58NVG3S0HTA00;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TH58NVG3S0HTA00;;;;;;;;;;;;
-Kioxia;TH58NVG3S0HTAI0;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TH58NVG3S0HTAI0;;;;;;;;;;;;
-Kioxia;TH58NVG4S0HTA20;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TH58NVG4S0HTA20;;;;;;;;;;;;
-Kioxia;TH58NVG4S0HTAK0;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TH58NVG4S0HTAK0;;;;;;;;;;;;
-Kioxia;TH58NYG3S0HBAI4;https://business.kioxia.com/info/docget.jsp?did=14852&prodName=TH58NYG3S0HBAI4;;;;;;;;;;;;
-Macronix;MX30LF1G28AD;;;x8;2.7V-3.6V;"63-VFBGA
-48-TSOP";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30LF1G18AC;;;x8;2.7V-3.6V;"48-TSOP
-63-VFBGA";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30LF1GE8AB;;;x8;2.7V-3.6V;"48-TSOP
-63-VFBGA";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30LF2G28AD;;;x8;2.7V-3.6V;"63-VFBGA
-48-TSOP";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30LF2G18AC;;;x8;2.7V-3.6V;"48-TSOP
-63-VFBGA";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30LF4G28AD;;;x8;2.7V-3.6V;"63-VFBGA
-48-TSOP";;-40 +85C;;4KB;;SLC;;
-Macronix;MX30LF4G18AC;;;x8;2.7V-3.6V;"48-TSOP
-63-VFBGA";;-40 +85C;;2KB;;SLC;;
-Macronix;MX60UF8G18AC;;;x8;1.7V-1.95V;63-VFBGA;;-40 +85C;;2KB;;SLC;;
-Macronix;MX60LF8G28AD;;;x8;2.7V-3.6V;"63-VFBGA
-48-TSOP";;-40 +85C;;4KB;;SLC;;
-Macronix;MX60LF8G18AC;;;x8;2.7V-3.6V;"48-TSOP
-63-VFBGA";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30UF4G18AC;;;x8;1.7V-1.95V;"63-VFBGA
-48-TSOP";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30UF4G16AC;;;x16;1.7V-1.95V;63-VFBGA;;-40 +85C;;2KB;;SLC;;
-Macronix;MX30UF4G28AC;;;x8;1.7V-1.95V;63-VFBGA;;-40 +85C;;2KB;;SLC;;
-Macronix;MX30UF4G26AB;;;x16;1.7V-1.95V;63-VFBGA;;-40 +85C;;2KB;;SLC;;
-Macronix;MX30UF2G18AC;;;x8;1.7V-1.95V;"48-TSOP
-63-VFBGA";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30UF2G16AC;;;x16;1.7V-1.95V;"48-VFBGA
-63-VFBGA";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30UF2G16AB;;;x16;1.7V-1.95V;63-VFBGA;;-40 +85C;;2KB;;SLC;;
-Macronix;MX30UF2G28AB;;;x8;1.7V-1.95V;"48-TSOP
-63-VFBGA";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30UF1G18AC;;;x8;1.7V-1.95V;"48-TSOP
-63-VFBGA";;-40 +85C;;2KB;;SLC;;
-Macronix;MX30UF1G16AC;;;x16;1.7V-1.95V;"48-VFBGA
-63-VFBGA";;-40 +85C;;2KB;;SLC;;
+part;vendor;datasheet;density;width;voltage;footprint_default;footprint_filters;temperature;ce;page_size;block_size;cells;speed;alias
+MT29F128G08AJAAAWP;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f128g08ajaaawp-itz;128Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F128G08AKCABH2;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f128g08akcabh2-10it;128Gb;x8;;Package_BGA:BGA-100_10x17_Layout12x18mm_P1.0mm;"[""Package*:*BGA*10x17*Layout12x18*P1.0mm*""]";-40 to +85°C;;;;SLC;;
+MT29F128G08AMCABH2;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f128g08amcabh2-10itz;128Gb;x8;;Package_BGA:BGA-100_10x17_Layout12x18mm_P1.0mm;"[""Package*:*BGA*10x17*Layout12x18*P1.0mm*""]";-40 to +85°C;;;;SLC;;
+MT29F128G08AMCDBJ5;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f128g08amcdbj5-6;128Gb;x8;;Package_BGA:BGA-132_12x18mm_Layout11x17_P1.0mm;"[""Package*:*BGA*12x18mm*Layout11x17*P1.0mm*""]";0 to +70°C;;;;SLC;;
+MT29F16G08ABABAWP;Micron;;16Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;"[{""part"":""MT29F16G08ABABAWP-AIT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08ababawp-ait""},{""part"":""MT29F16G08ABABAWP-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08ababawp-it""}]"
+MT29F16G08ABACAWP;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08abacawp-itz;16Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F16G08ABCBBH1;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08abcbbh1-12ait;16Gb;x8;;Package_BGA:BGA-100_10x17_Layout12x18mm_P1.0mm;"[""Package*:*BGA*10x17*Layout12x18*P1.0mm*""]";-40 to +85°C;;;;SLC;;
+MT29F16G08ABCCBH1;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08abccbh1-10itz;16Gb;x8;;Package_BGA:BGA-100_10x17_Layout12x18mm_P1.0mm;"[""Package*:*BGA*10x17*Layout12x18*P1.0mm*""]";-40 to +85°C;;;;SLC;;
+MT29F16G08AJADAWP;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f16g08ajadawp-it;16Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F1G08ABADAH4;Micron;;1Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";;;;;SLC;;"[{""part"":""MT29F1G08ABADAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abadah4-it""},{""part"":""MT29F1G08ABADAH4-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abadah4-itx""}]"
+MT29F1G08ABADAWP;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abadawp-itx;1Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F1G08ABAEAH4;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeah4;1Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";0 to +70°C;;;;SLC;;"[{""part"":""MT29F1G08ABAEAH4-AATX"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeah4-aatx""},{""part"":""MT29F1G08ABAEAH4-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeah4-aitx""},{""part"":""MT29F1G08ABAEAH4-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeah4-itx""}]"
+MT29F1G08ABAEAWP;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeawp;1Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";0 to +70°C;;;;SLC;;"[{""part"":""MT29F1G08ABAEAWP-AATX"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeawp-aatx""},{""part"":""MT29F1G08ABAEAWP-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeawp-aitx""},{""part"":""MT29F1G08ABAEAWP-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeawp-it""},{""part"":""MT29F1G08ABAEAWP-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abaeawp-itx""}]"
+MT29F1G08ABAFAH4;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafah4-aat;1Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";;;;;SLC;;"[{""part"":""MT29F1G08ABAFAH4-AAT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafah4-aat""},{""part"":""MT29F1G08ABAFAH4-AATES"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafah4-aates""},{""part"":""MT29F1G08ABAFAH4-ITE"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafah4-ite""}]"
+MT29F1G08ABAFAWP;Micron;;1Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";;;;;SLC;;"[{""part"":""MT29F1G08ABAFAWP-AAT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafawp-aat""},{""part"":""MT29F1G08ABAFAWP-AATES"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafawp-aates""},{""part"":""MT29F1G08ABAFAWP-ITE"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafawp-ite""}]"
+MT29F1G08ABBDAH4-ITX;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbdah4-itx;1Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+MT29F1G08ABBEAH4;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbeah4-aitx;1Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;"[{""part"":""MT29F1G08ABBEAH4-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafawp-aitx""},{""part"":""MT29F1G08ABBEAH4-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abafawp-itx""}]"
+MT29F1G08ABBFAH4;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbfah4-aat;1Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";;;;;SLC;;"[{""part"":""MT29F1G08ABBFAH4-AAT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbfah4-aat""},{""part"":""MT29F1G08ABBFAH4-AATES"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbfah4-aates""},{""part"":""MT29F1G08ABBFAH4-ITE"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g08abbfah4-ite""}]"
+MT29F1G16ABBDAH4-ITX;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbdah4-itx;1Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+MT29F1G16ABBDAHC-IT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbdahc-it;1Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+MT29F1G16ABBEAH4;Micron;;1Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";;;;;SLC;;"[{""part"":""MT29F1G16ABBEAH4-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbeah4-aitx""},{""part"":""MT29F1G16ABBEAH4-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbeah4-itx""}]"
+MT29F1G16ABBFAH4;Micron;;1Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";;;;;SLC;;"[{""part"":""MT29F1G16ABBFAH4-AAT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbfah4-aat""},{""part"":""MT29F1G16ABBFAH4-AATES"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbfah4-aates""},{""part"":""MT29F1G16ABBFAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f1g16abbfah4-it""}]"
+MT29F256G08AUCABH3-10ITZ;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f256g08aucabh3-10itz;256Gb;x8;;Package_BGA:BGA-100_10x17_Layout12x18mm_P1.0mm;"[""Package*:*BGA*10x17*Layout12x18*P1.0mm*""]";-40 to +85°C;;;;SLC;;
+MT29F2G08ABAEAH4;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeah4;2Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";0 to +70°C;;;;SLC;;"[{""part"":""MT29F2G08ABAEAH4-AATX"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeah4-aatx""},{""part"":""MT29F2G08ABAEAH4-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeah4-aitx""},{""part"":""MT29F2G08ABAEAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeah4-it""},{""part"":""MT29F2G08ABAEAH4-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeah4-itx""}]"
+MT29F2G08ABAEAWP;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeawp;2Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";0 to +70°C;;;;SLC;;"[{""part"":""MT29F2G08ABAEAWP-AATX"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeawp-aatx""},{""part"":""MT29F2G08ABAEAWP-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeawp-aitx""},{""part"":""MT29F2G08ABAEAWP-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeawp-it""},{""part"":""MT29F2G08ABAEAWP-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abaeawp-itx""}]"
+MT29F2G08ABAGAH4;Micron;;2Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";;;;;SLC;;"[{""part"":""MT29F2G08ABAGAH4-AAT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-aat""},{""part"":""MT29F2G08ABAGAH4-AATES"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-aates""},{""part"":""MT29F2G08ABAGAH4-AIT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-ait""},{""part"":""MT29F2G08ABAGAH4-AITES"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-aites""},{""part"":""MT29F2G08ABAGAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-it""},{""part"":""MT29F2G08ABAGAH4-ITE"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagah4-ite""}]"
+MT29F2G08ABAGAWP-ITE;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abagawp-ite;2Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F2G08ABBEAH4;Micron;;2Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;"[{""part"":""MT29F2G08ABBEAH4-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbeah4-aitx""},{""part"":""MT29F2G08ABBEAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbeah4-it""},{""part"":""MT29F2G08ABBEAH4-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbeah4-itx""}]"
+MT29F2G08ABBEAHC-IT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbeahc-it;2Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+MT29F2G08ABBGAH4;Micron;;2Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";;;;;SLC;;"[{""part"":""MT29F2G08ABBGAH4-AAT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbgah4-aat""},{""part"":""MT29F2G08ABBGAH4-AATES"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbgah4-aates""},{""part"":""MT29F2G08ABBGAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g08abbgah4-it""}]"
+MT29F2G16ABAEAWP;Micron;;2Gb;x16;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;"[{""part"":""MT29F2G16ABAEAWP-AAT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abaeawp-aat""},{""part"":""MT29F2G16ABAEAWP-AIT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abaeawp-ait""}]"
+MT29F2G16ABAGAWP;Micron;;2Gb;x16;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";;;;;SLC;;"[{""part"":""MT29F2G16ABAGAWP-AATES"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abagawp-aates""},{""part"":""MT29F2G16ABAGAWP-AIT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abagawp-ait""},{""part"":""MT29F2G16ABAGAWP-AITES"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abagawp-aites""}]"
+MT29F2G16ABBEAH4-AAT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abbeah4-aat;2Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";0 to +85°C;;;;SLC;;
+MT29F2G16ABBEAHC-AIT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abbeahc-ait;2Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+MT29F2G16ABBGAH4;Micron;;2Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +105°C;;;;SLC;;"[{""part"":""MT29F2G16ABBGAH4-AATES"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abbgah4-aates""},{""part"":""MT29F2G16ABBGAH4-AIT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abbgah4-ait""},{""part"":""MT29F2G16ABBGAH4-AITES"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f2g16abbgah4-aites""}]"
+MT29F32G08ABAAAWP-ITZ;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f32g08abaaawp-itz;32Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F32G08ABCABH1-10ITZ;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f32g08abcabh1-10itz;32Gb;x8;;Package_BGA:BGA-100_10x17_Layout12x18mm_P1.0mm;"[""Package*:*BGA*10x17*Layout12x18*P1.0mm*""]";-40 to +85°C;;;;SLC;;
+MT29F32G08ABCDBJ4-6;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f32g08abcdbj4-6;32Gb;x8;;Package_BGA:BGA-132_12x18mm_Layout11x17_P1.0mm;"[""Package*:*BGA*12x18mm*Layout11x17*P1.0mm*""]";0 to +70°C;;;;SLC;;
+MT29F4G08ABADAH4;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadah4;4Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";0 to +70°C;;;;SLC;;"[{""part"":""MT29F4G08ABADAH4-AATX"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadah4-aatx""},{""part"":""MT29F4G08ABADAH4-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadah4-aitx""},{""part"":""MT29F4G08ABADAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadah4-it""},{""part"":""MT29F4G08ABADAH4-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadah4-itx""}]"
+MT29F4G08ABADAWP;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadawp;4Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";0 to +70°C;;;;SLC;;"[{""part"":""MT29F4G08ABADAWP-AATX"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadawp-aatx""},{""part"":""MT29F4G08ABADAWP-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadawp-aitx""},{""part"":""MT29F4G08ABADAWP-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadawp-it""},{""part"":""MT29F4G08ABADAWP-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abadawp-itx""}]"
+MT29F4G08ABAEAH4;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abaeah4;4Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";0 to +70°C;;;;SLC;;"[{""part"":""MT29F4G08ABAEAH4-ITS"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abaeah4-its""}]"
+MT29F4G08ABAEAWP;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abaeawp;4Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";0 to +70°C;;;;SLC;;"[{""part"":""MT29F4G08ABAEAWP-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abaeawp-it""}]"
+MT29F4G08ABAFAH4;Micron;;4Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +105°C;;;;SLC;;"[{""part"":""MT29F4G08ABAFAH4-AAT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abafah4-aat""},{""part"":""MT29F4G08ABAFAH4-AIT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abafah4-ait""},{""part"":""MT29F4G08ABAFAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abafah4-it""}]"
+MT29F4G08ABAFAWP;Micron;;4Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";;;;;SLC;;"[{""part"":""MT29F4G08ABAFAWP-AAT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abafawp-aat""},{""part"":""MT29F4G08ABAFAWP-AIT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abafawp-ait""},{""part"":""MT29F4G08ABAFAWP-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abafawp-it""}]"
+MT29F4G08ABBDAH4;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdah4;4Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";0 to +70°C;;;;SLC;;"[{""part"":""MT29F4G08ABBDAH4-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdah4-aitx""},{""part"":""MT29F4G08ABBDAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdah4-it""},{""part"":""MT29F4G08ABBDAH4-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdah4-itx""}]"
+MT29F4G08ABBDAHC;Micron;;4Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;"[{""part"":""MT29F4G08ABBDAHC-AIT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdahc-ait""},{""part"":""MT29F4G08ABBDAHC-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbdahc-it""}]"
+MT29F4G08ABBEAH4;Micron;;4Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";0 to +70°C;;;;SLC;;"[{""part"":""MT29F4G08ABBEAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/MT29F4G08ABBEAH4-it""}]"
+MT29F4G08ABBFAH4;Micron;;4Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +105°C;;;;SLC;;"[{""part"":""MT29F4G08ABBFAH4-AAT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbfah4-aat""},{""part"":""MT29F4G08ABBFAH4-AIT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbfah4-ait""},{""part"":""MT29F4G08ABBFAH4-AITES"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g08abbfah4-aites""}]"
+MT29F4G16ABADAH4-AIT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g16abadah4-ait;4Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+MT29F4G16ABADAWP-AIT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g16abadawp-ait;4Gb;x16;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F4G16ABBDAH4;Micron;;4Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";;;;;SLC;;"[{""part"":""MT29F4G16ABBDAH4-AIT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g16abbdah4-ait""},{""part"":""MT29F4G16ABBDAH4-IT"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g16abbdah4-it""}]"
+MT29F4G16ABBFAH4-AAT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f4g16abbfah4-aat;4Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +105°C;;;;SLC;;
+MT29F64G08AECABH1-10ITZ;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f64g08aecabh1-10itz;64Gb;x8;;Package_BGA:BGA-100_10x17_Layout12x18mm_P1.0mm;"[""Package*:*BGA*10x17*Layout12x18*P1.0mm*""]";-40 to +85°C;;;;SLC;;
+MT29F64G08AECDBJ4-6;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f64g08aecdbj4-6;64Gb;x8;;Package_BGA:BGA-132_12x18mm_Layout11x17_P1.0mm;"[""Package*:*BGA*12x18mm*Layout11x17*P1.0mm*""]";0 to +70°C;;;;SLC;;
+MT29F64G08AFAAAWP-ITZ;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f64g08afaaawp-itz;64Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F64G08AJABAWP-IT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f64g08ajabawp-it;64Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F8G08ABABAWP;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08ababawp;8Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";;;;;SLC;;"[{""part"":""MT29F8G08ABABAWP-AATX"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08ababawp-aatx""},{""part"":""MT29F8G08ABABAWP-AITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08ababawp-aitx""},{""part"":""MT29F8G08ABABAWP-ITX"",""temperature"":""-40 to +85°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08ababawp-itx""}]"
+MT29F8G08ABACAH4-IT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08abacah4-it;8Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+MT29F8G08ABACAWP-IT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08abacawp-it;8Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F8G08ABBCAH4-IT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08abbcah4-it;8Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+MT29F8G08ADADAH4-IT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adadah4-it;8Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+MT29F8G08ADAFAH4-AAT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adafah4-aat;8Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +105°C;;;;SLC;;
+MT29F8G08ADAFAWP;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adafawp;8Gb;x8;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";;;;;SLC;;"[{""part"":""MT29F8G08ADAFAWP-AAT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adafawp-aat""},{""part"":""MT29F8G08ADAFAWP-AIT"",""temperature"":""-40 to +105°C"",""datasheet"":""https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adafawp-ait""}]"
+MT29F8G08ADBDAH4-AAT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adbdah4-aat;8Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +105°C;;;;SLC;;
+MT29F8G08ADBFAH4-AAT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g08adbfah4-aat;8Gb;x8;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +105°C;;;;SLC;;
+MT29F8G16ABACAWP-IT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g16abacawp-it;8Gb;x16;;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+MT29F8G16ADADAH4-IT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g16adadah4-it;8Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+MT29F8G16ADBDAH4-AIT;Micron;https://www.micron.com/products/nand-flash/slc-nand/part-catalog/mt29f8g16adbdah4-ait;8Gb;x16;;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+K9F1G08U0F-5IB0;Samsung;https://www.samsung.com/semiconductor/slc-nand/K9F1G08U0F-5IB0/;1Gb;x8;2.7 to 3.6V;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+K9F1G08U0F-SIB0;Samsung;https://www.samsung.com/semiconductor/slc-nand/K9F1G08U0F-SIB0/;1Gb;x8;2.7 to 3.6V;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+K9F2G08U0D-5IB0;Samsung;https://www.samsung.com/semiconductor/slc-nand/K9F2G08U0D-5IB0/;2Gb;x8;2.7 to 3.6V;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+K9F2G08U0D-SIB0;Samsung;https://www.samsung.com/semiconductor/slc-nand/K9F2G08U0D-SIB0/;2Gb;x8;2.7 to 3.6V;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+K9F4G08U0F-5IB0;Samsung;https://www.samsung.com/semiconductor/slc-nand/K9F4G08U0F-5IB0/;4Gb;x8;2.7 to 3.6V;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+K9F4G08U0F-SIB0;Samsung;https://www.samsung.com/semiconductor/slc-nand/K9F4G08U0F-SIB0/;4Gb;x8;2.7 to 3.6V;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+K9F8G08U0F-5IB0;Samsung;https://www.samsung.com/semiconductor/slc-nand/K9F8G08U0F-5IB0/;8Gb;x8;2.7 to 3.6V;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;;;SLC;;
+K9K8G08U0F-SIB0;Samsung;https://www.samsung.com/semiconductor/slc-nand/K9K8G08U0F-SIB0/;8Gb;x8;2.7 to 3.6V;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+K9WAG08U1F-SIB0;Samsung;https://www.samsung.com/semiconductor/slc-nand/K9WAG08U1F-SIB0/;16Gb;x8;2.7 to 3.6V;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;;;SLC;;
+TC58NVG0S3HBAI4;Kioxia;https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NVG0S3HBAI4;1Gb;x8;2.7 to 3.6V;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;1;2K+128;128K+8K;SLC;;
+TC58NVG0S3HTAx0;Kioxia;;1Gb;x8;2.7 to 3.6V;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";;1;2K+128;128K+8K;SLC;;"[{""part"":""TC58NVG0S3HTA00"",""temperature"":""0 to +70°C"",""datasheet"":""https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NVG0S3HTA00""},{""part"":""TC58NVG0S3HTAI0"",""temperature"":""-40 to +85°C"",""datasheet"":""https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NVG0S3HTAI0""}]"
+TC58NVG1S3HBAI4;Kioxia;https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NVG1S3HBAI4;2Gb;x8;2.7 to 3.6V;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*10x12*P0.8mm*""]";-40 to +85°C;1;2K+128;128K+8K;SLC;;
+TC58NVG1S3HTAx0;Kioxia;;2Gb;x8;2.7 to 3.6V;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";;1;2K+128;128K+8K;SLC;;"[{""part"":""TC58NVG1S3HTA00"",""temperature"":""0 to +70°C"",""datasheet"":""https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NVG1S3HTA00""},{""part"":""TC58NVG1S3HTAI0"",""temperature"":""-40 to +85°C"",""datasheet"":""https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NVG1S3HTAI0""}]"
+TC58NVG2S0HBAI4;Kioxia;https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NVG2S0HBAI4;4Gb;x8;2.7 to 3.6V;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*10x12*P0.8mm*""]";-40 to +85°C;1;4K+256;256K+16K;SLC;;
+TC58NVG2S0HTAx0;Kioxia;;4Gb;x8;2.7 to 3.6V;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";;1;4K+256;256K+16K;SLC;;"[{""part"":""TC58NVG2S0HTA00"",""temperature"":""0 to +70°C"",""datasheet"":""https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NVG2S0HTA00""},{""part"":""TC58NVG2S0HTAI0"",""temperature"":""-40 to +85°C"",""datasheet"":""https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NVG2S0HTAI0""}]"
+TC58NYG0S3HBAI4;Kioxia;https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NYG0S3HBAI4;1Gb;x8;1.70 to 1.95;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*10x12*P0.8mm*""]";-40 to +85°C;1;2K+128;128K+8K;SLC;;
+TC58NYG1S3HBAI4;Kioxia;https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NYG1S3HBAI4;2Gb;x8;1.70 to 1.95;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*10x12*P0.8mm*""]";-40 to +85°C;1;2K+128;128K+8K;SLC;;
+TC58NYG2S0HBAI4;Kioxia;https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TC58NYG2S0HBAI4;4Gb;x8;1.70 to 1.95;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*10x12*P0.8mm*""]";-40 to +85°C;1;4K+256;256K+16K;SLC;;
+TH58NVG3S0HBAI4;Kioxia;https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TH58NVG3S0HBAI4;8Gb(4Gx2);x8;2.7 to 3.6V;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*10x12*P0.8mm*""]";-40 to +85°C;1;4K+256;256K+16K;SLC;;
+TH58NVG3S0HTAx0;Kioxia;;8Gb(4Gx2);x8;2.7 to 3.6V;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";;1;4K+256;256K+16K;SLC;;"[{""part"":""TH58NVG3S0HTA00"",""temperature"":""0 to +70°C"",""datasheet"":""https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TH58NVG3S0HTA00""},{""part"":""TH58NVG3S0HTAI0"",""temperature"":""-40 to +85°C"",""datasheet"":""https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TH58NVG3S0HTAI0""}]"
+TH58NVG4S0HTAx0;Kioxia;;16Gb(4Gx4);x8;2.7 to 3.6V;Package_SO:TSOP-I-48_18.4x12mm_P0.5mm;"[""Package*:*TSOP*18.4x12mm*P0.5mm*""]";;1;4K+256;256K+16K;SLC;;"[{""part"":""TH58NVG4S0HTA20"",""temperature"":""0 to +70°C"",""datasheet"":""https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TH58NVG4S0HTA20""},{""part"":""TH58NVG4S0HTAK0"",""temperature"":""-40 to +85°C"",""datasheet"":""https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TH58NVG4S0HTAK0""}]"
+TH58NYG3S0HBAI4;Kioxia;https://business.kioxia.com/info/docget.jsp?did=14827&prodpart=TH58NYG3S0HBAI4;8Gb(4Gx2);x8;1.70 to 1.95;Package_BGA:BGA-63_9x11mm_Layout10x12_P0.8mm;"[""Package*:*10x12*P0.8mm*""]";-40 to +85°C;1;4K+256;256K+16K;SLC;;
+MX30LF1G28AD;Macronix;;;x8;2.7 to 3.6V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30LF1G18AC;Macronix;;;x8;2.7 to 3.6V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30LF1GE8AB;Macronix;;;x8;2.7 to 3.6V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30LF2G28AD;Macronix;;;x8;2.7 to 3.6V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30LF2G18AC;Macronix;;;x8;2.7 to 3.6V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30LF4G28AD;Macronix;;;x8;2.7 to 3.6V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;4KB;;SLC;;
+MX30LF4G18AC;Macronix;;;x8;2.7 to 3.6V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX60UF8G18AC;Macronix;;;x8;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX60LF8G28AD;Macronix;;;x8;2.7 to 3.6V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;4KB;;SLC;;
+MX60LF8G18AC;Macronix;;;x8;2.7 to 3.6V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30UF4G18AC;Macronix;;;x8;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30UF4G16AC;Macronix;;;x16;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30UF4G28AC;Macronix;;;x8;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30UF4G26AB;Macronix;;;x16;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30UF2G18AC;Macronix;;;x8;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30UF2G16AC;Macronix;;;x16;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30UF2G16AB;Macronix;;;x16;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30UF2G28AB;Macronix;;;x8;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30UF1G18AC;Macronix;;;x8;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+MX30UF1G16AC;Macronix;;;x16;1.7 to 1.95V;;"[""Package*:*BGA*Layout10x12*P0.8mm*"",""Package*:*TSOP*18.4x12mm*P0.5mm*""]";-40 to +85°C;;2KB;;SLC;;
+W29N04GZxxBF;Winbond;;;;;;;;;;;SLC;;
+W29N08GVxxAA;Winbond;;;;;;;;;;;SLC;;
+W29N08GVxxAF;Winbond;;;;;;;;;;;SLC;;
+W29N08GWxxBA;Winbond;;;;;;;;;;;SLC;;
+W29N08GWxxBF;Winbond;;;;;;;;;;;SLC;;
+W29N08GZxxBA;Winbond;;;;;;;;;;;SLC;;
+W29N08GZxxBF ;Winbond;;;;;;;;;;;SLC;;
+W29N02GWxxBA;Winbond;;;;;;;;;;;SLC;;
+W29N02GZxIBF;Winbond;;;;;;;;;;;SLC;;
+W29N02GZxxBA;Winbond;;;;;;;;;;;SLC;;
+W29N02KVxxAE;Winbond;;;;;;;;;;;SLC;;
+W29N02KVxxAF;Winbond;;;;;;;;;;;SLC;;
+W29N04GVxxAA;Winbond;;;;;;;;;;;SLC;;
+W29N04GVxxAF ;Winbond;;;;;;;;;;;SLC;;
+W29N04GWxxBA;Winbond;;;;;;;;;;;SLC;;
+W29N04GWxxBF;Winbond;;;;;;;;;;;SLC;;
+W29N04GZxxBA ;Winbond;;;;;;;;;;;SLC;;
+W29N01GV;Winbond;;;;;;;;;;;SLC;;
+W29N01GW;Winbond;;;;;;;;;;;SLC;;
+W29N01GZ;Winbond;;;;;;;;;;;SLC;;
+W29N01HVxINA;Winbond;;;;;;;;;;;SLC;;
+W29N01HVxINF;Winbond;;;;;;;;;;;SLC;;
+W29N01HZWxxNA;Winbond;;;;;;;;;;;SLC;;
+W29N01HZWxxNF;Winbond;;;;;;;;;;;SLC;;
+W29N02GVxIAA;Winbond;;;;;;;;;;;SLC;;
+W29N02GVxIAF;Winbond;;;;;;;;;;;SLC;;
+W29N02GWxIBF;Winbond;;;;;;;;;;;SLC;;
