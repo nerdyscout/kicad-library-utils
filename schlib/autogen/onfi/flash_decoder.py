@@ -3,7 +3,7 @@
 import sys, os, re, json
 
 micron = r'(^MT)(29)([E,F])(.{,3}[G,T])([0,1][1,8,6])([A,C,E]|.)([A,B,D,E,F,G,J,K,L,M,Q,R,T,U,V,]|.)([A,B,C,E,F,G,H,J,K,L]|.)([A,B,C,D,E]|.)([A,B,C,D]|.)([W,H,J][P,C,1-9]|..)($|-(\d{,2}|$)([A,I,W]{1,2}T|$)([E,M,R,S,X,Z]|$))'
-kioxia = r'(^T[H,C])58([N,D,T]|.)([V,Y,A,B,D]|.)([M,G,T][0-9])([S,D,T]|.)([0-9])([A-H])'
+kioxia = r'(^T[H,C])58([N,D,T,M]|.)([V,Y,A,B,D]|.)([M,G,T][0-9])([S,D,T]|.)([0-9]|.)([A-H]|.)(..)([0-9][A-Z]|.)'
 samsung = r'(^K)'
 winbond = r'(^W)'
 macronix = r'(^MX)30(L)(F)(\d{,3}G)(E8A).-([T,XK,XQ])(I)'
@@ -101,14 +101,22 @@ def winbond(id):
     
 def kioxia(id):
     # CELLS
-    if id[4] == 'S':
+    if id[4] in ['S','2']:
         cells = 'SLC'
-    elif id[4] == 'D':
+    elif id[4] in ['D','4']:
         cells = 'MLC'
-    elif id[4] == 'T':
+    elif id[4] in ['T','8']:
         cells = 'TLC'
     else:
         cells = None
+
+    # WIDTH
+    if id[5] in ['A','0','1','2','3','4']:
+        width = 'x8'
+    elif id[5] in ['F','G','5','6','7','8','9']:
+        width = 'x16'
+    else:
+        width = None
 
     # VOLTAGE
     if id[2] == 'V':
@@ -124,14 +132,41 @@ def kioxia(id):
     else:
         vcc=None;vccq=None
 
+    # INTERFACE
+    if id[1] in ['N', 'D']:
+        sync=False;synca=True
+    elif id[1] in ['T']:
+        sync=True;synca=None
+    else:
+        sync=None;synca=None
+
+    # CLASSIFICATION
+    if id[8] in ['0', 'I']:
+        die=None;ch=1;ce=None;rb=None
+    elif id[8] in ['2', 'K']:
+        die=None;ch=1;ce=2;rb=None
+    elif id[8] in ['4', 'M']:
+        die=None;ch=2;ce=2;rb=None
+    elif id[8] in ['7', 'R']:
+        die=None;ch=1;ce=4;rb=None
+    elif id[8] in ['8', 'S']:
+        die=None;ch=None;ce=4;rb=None
+    elif id[8] in ['A', 'U']:
+        die=None;ch=None;ce=6;rb=None
+    elif id[8] in ['B', 'V']:
+        die=None;ch=None;ce=8;rb=None
+    else:
+        die=None;ch=None;ce=None;rb=None
+
+
     return {
         'vendor':'Kioxia',
         'density':str(2**int(id[3][1]))+id[3][0],
-        'width':None,
+        'width':width,
         'cells':cells,
-        'classification':{'die':None,'ce':None,'rb':None,'ch':None},
+        'classification':{'die':die,'ce':ce,'rb':rb,'ch':ch},
         'voltage':{'Vcc':vcc,'Vccq':vccq},
-        'interface':None,
+        'interface':{'sync':sync,'async':synca},
         'footprint':None,
         'speed':None,
         'temperature':str(None),
