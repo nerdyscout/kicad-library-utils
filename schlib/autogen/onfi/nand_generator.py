@@ -10,30 +10,30 @@ from KiCadSymbolGenerator import *
 
 generator = SymbolGenerator('Memory_Flash_NAND')
 
-def format(json):
-    decode=flash_decoder.decode(json['part'])
+def format(row):
+    decode=flash_decoder.decode(row['part'])
 
-    print(json['part'])
+    print(row['part'])
     if decode is not None:
         return {
-            'part':json['part'],
-            'vendor':json['vendor'] if json['vendor'] else decode['vendor'],
-            'datasheet':json['datasheet'],
-            'density':json['density'] if json['density'] else decode['density'],
-            'width':json['width'] if json['width'] else decode['width'],
-            'page_size':json['page_size'] if json['page_size'] else decode['page_size'],
+            'part':row['part'],
+            'vendor':row['vendor'] if row['vendor'] else decode['vendor'],
+            'datasheet':row['datasheet'],
+            'density':row['density'] if row['density'] else decode['density'],
+            'width':row['width'] if row['width'] else decode['width'],
+            'page_size':row['page_size'] if row['page_size'] else decode['page_size'],
             'page_size':'',
-            'block_size':json['block_size'] if json['block_size'] else decode['block_size'],
+            'block_size':row['block_size'] if row['block_size'] else decode['block_size'],
             'block_size':'',
-            'cells':json['cells'] if json['cells'] else decode['cells'],
-            'voltage':json['voltage'] if json['voltage'] else decode['voltage'],
+            'cells':row['cells'] if row['cells'] else decode['cells'],
+            'voltage':json.loads(row['voltage']) if row['voltage'] else decode['voltage'],
             'classification':decode['classification'],
             'interface':decode['interface'],
-            'footprint_default':json['footprint_default'] if json['footprint_default'] else decode['footprint_default'],
-            'footprint_filters':json['footprint_filters'] if json['footprint_filters'] else decode['footprint_filters'],
-            'temperature':json['temperature'] if json['temperature'] else decode['temperature'],
-            'speed':json['speed'] if json['speed'] else decode['speed'],
-            'alias':json['alias'] if json['alias'] else None
+            'footprint_default':row['footprint_default'] if row['footprint_default'] else decode['footprint_default'],
+            'footprint_filters':row['footprint_filters'] if row['footprint_filters'] else decode['footprint_filters'],
+            'temperature':row['temperature'] if row['temperature'] else decode['temperature'],
+            'speed':row['speed'] if row['speed'] else decode['speed'],
+            'alias':row['alias'] if row['alias'] else None
         }
 
 
@@ -63,8 +63,8 @@ def generateSymbol(flash):
         page_size = flash['page_size'] + ' Page, ' if flash['page_size'] else ''
         block_size = flash['block_size'] + ' Block, ' if flash['block_size'] else ''
         temperature = flash['temperature'] if flash['temperature'] else ''
-        speed = flash['speed'] if flash['speed'] is not None else ''
-        keywords = voltage + page_size + block_size + speed
+        speed = flash['speed'] +', ' if flash['speed'] else ''
+        keywords = str(voltage + page_size + block_size + speed).rstrip(',')
         description = flash['vendor'] + ' ' + flash['cells'] + ' NAND ' + flash['density'] + flash['width'] + ', ' + mode
 
         # symbol properties
